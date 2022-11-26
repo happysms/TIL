@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/happysms/TIL/issues"
   },
-  "homepage": "https://github.com/happysms/TIL#readme"
+  "homepage": "https://github.com/happysms/TIL#readme",
+  "dependencies": {
+    "@binance/connector": "^2.0.0-rc.4"
+  }
 }
